@@ -1,13 +1,10 @@
-<div style="display:flex; align-items:center; gap:1.5rem; margin:1.5rem 0;">
-  <img src="{{ '/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.jpg' | relative_url }}" alt="Cover of Vol. 1" style="width:140px; height:auto; flex-shrink:0; border-radius:4px;">
-  <div>
-    <a href="{{ '/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.pdf' | relative_url }}">Moses bar Kepha's Hexaemeron Commentary, Vol. 1.pdf</a>
-  </div>
-</div>
+---
+title: "Der Hexaemeronkommentar des Moses bar Kepha: Einleitung, Übersetzung und Untersuchungen. Lorenz Schlimme. Göttinger Orientforschungen: Syriaca 14. Otto Harrassowitz, Wiesbaden 1977."
+image:
+  path: https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.jpg
+  alt: Der Hexaemeronkommentar des Moses bar Kepha: Einleitung, Übersetzung und Untersuchungen. Lorenz Schlimme. Göttinger Orientforschungen: Syriaca 14. Otto Harrassowitz, Wiesbaden 1977.
+---
 
-<div style="display:flex; align-items:center; gap:1.5rem; margin:1.5rem 0;">
-  <img src="{{ '/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-2.jpg' | relative_url }}" alt="Cover of Vol. 2" style="width:140px; height:auto; flex-shrink:0; border-radius:4px;">
-  <div>
-    <a href="{{ '/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-2.pdf' | relative_url }}">Moses bar Kepha's Hexaemeron Commentary, Vol. 2.pdf</a>
-  </div>
-</div>
+[Der Hexaemeronkommentar des Moses bar Kepha Vol. 1.pdf](https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.pdf)
+
+[Der Hexaemeronkommentar des Moses bar Kepha Vol. 2.pdf](https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-2.pdf)
