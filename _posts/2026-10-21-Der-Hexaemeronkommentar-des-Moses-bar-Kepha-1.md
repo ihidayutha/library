@@ -2,7 +2,7 @@
 title: "Der Hexaemeronkommentar des Moses bar Kepha: Einleitung, Übersetzung und Untersuchungen. Lorenz Schlimme. Göttinger Orientforschungen: Syriaca 14. Otto Harrassowitz, Wiesbaden 1977."
 image:
   path: https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.jpg
-  alt: Der Hexaemeronkommentar des Moses bar Kepha: Einleitung, Übersetzung und Untersuchungen. Lorenz Schlimme. Göttinger Orientforschungen: Syriaca 14. Otto Harrassowitz, Wiesbaden 1977.
+  alt: Der Hexaemeronkommentar des Moses bar Kepha
 ---
 
 [Der Hexaemeronkommentar des Moses bar Kepha Vol. 1.pdf](https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.pdf)
