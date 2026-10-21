@@ -5,6 +5,6 @@ image:
   alt:
 ---
 
-[Der Hexaemeronkommentar des Moses bar Kepha 14.1.pdf](https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.pdf)
+[Der Hexaemeronkommentar des Moses bar Kepha 14.1.pdf](https://github.com/ihidayutha/library/releases/download/Books/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-1.pdf)
 
-[Der Hexaemeronkommentar des Moses bar Kepha 14.2.pdf](https://ihidayutha.github.io/library/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-2.pdf)
+[Der Hexaemeronkommentar des Moses bar Kepha 14.2.pdf](https://github.com/ihidayutha/library/releases/download/Books/Der-Hexaemeronkommentar-des-Moses-bar-Kepha-2.pdf)
